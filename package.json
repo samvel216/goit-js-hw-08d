@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "@vimeo/player": "^2.16.2",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.10.2"
+  },
+  "name": "goit-js-hw-08",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "cssnano": "^5.0.16",
+    "postcss": "^8.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/index.html",
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samvel216/goit-js-hw-08.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samvel216/goit-js-hw-08/issues"
+  },
+  "homepage": "https://github.com/samvel216/goit-js-hw-08#readme"
+}
